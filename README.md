@@ -15,4 +15,4 @@ To use this animation locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/justdavidsat/orbit-animation.git
+   git clone https://github.com/your-username/orbit-animation.git
